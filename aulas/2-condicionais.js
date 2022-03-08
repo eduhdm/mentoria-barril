@@ -26,7 +26,7 @@ if (10 <= 50) {
   console.log("10 nao é maior q 50");
 }
 
-console.log("------------- maior");
+console.log("------------- maior aaaa");
 if (10 > 5) {
   console.log("maior");
 }
