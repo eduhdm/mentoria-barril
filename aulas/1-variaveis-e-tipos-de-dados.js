@@ -78,4 +78,4 @@ var numerosPrimos = [2, 3, 5, 7, 11];
 console.log(numerosPrimos);
 // acessando um atributo
 // para acessar um atributo usamos a forma lista[index]
-console.log(numerosPrimos[0]);
+console.log(numerosPrimos[4]);

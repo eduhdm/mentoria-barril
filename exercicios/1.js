@@ -1,6 +1,6 @@
 // Definir variaveis n= 50 e m= 10
 var n = 50;
-var m = 10;
+var m = 20;
 // printar o resultado da adição, subtração, divisao, multiplicacao
 var adição = n + m;
 console.log("O resultado da SOMA entre essas duas váriavéis é:", adição);
