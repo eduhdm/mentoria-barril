@@ -1,0 +1,26 @@
+int x = 666
+int y = 333
+
+- declara e soma duas variáveis x e y e da console.log no resultado.
+
+int z = x + y
+console.log (z)
+
+- declara e subtrai duas variáveis x e y e da console.log no resultado.
+
+int sub = x - y
+console.log (sub)
+
+- declara e multiplica duas variáveis x e y e da console.log no resultado.
+
+int mul = x * y
+console.log (mul)
+
+- declara e divide x por y e da console.log no resultado.
+int div = x / y
+console.log (div)
+
+- declara duas variáveis e calcula o resto da divisão (operador mod)
+
+int mod = x % y
+console.log (mod)
